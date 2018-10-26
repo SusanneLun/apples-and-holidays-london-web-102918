@@ -62,7 +62,6 @@ holiday_hash.each do |season, holiday|
   holiday.each do |holiday, supplies|
     if holiday == :winter 
       supplies << supply
-      
 end
 end
 end supplies
