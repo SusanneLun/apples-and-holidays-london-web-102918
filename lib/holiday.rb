@@ -64,6 +64,7 @@ holiday_hash.each do |season, holiday|
       supplies << supply
       
 end
+end
 end supplies
 end 
 
